@@ -11,6 +11,9 @@
 ### 📫 Contact
 - If you managed to complete the challenge or you need help with something, contact me on Discord: **over_on_top**
 
+### 🏆 Winners
+- None
+
 ### 📜 ChangeLog
 ```diff
 v1.0.0 ⋮ 19/10/2024
