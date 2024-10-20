@@ -12,7 +12,9 @@
 - If you managed to complete the challenge or you need help with something, contact me on Discord: **over_on_top**
 
 ### 🏆 Winners
-- None
+- 🥇 wrc | 2 hours
+- 🥈 None
+- 🥉 None
 
 ### 📜 ChangeLog
 ```diff
