@@ -13,7 +13,7 @@
 
 ### 🏆 Winners
 - 🥇 wrc | 2 hours
-- 🥈 None
+- 🥈 aazz18 | 2 hours
 - 🥉 None
 
 ### 📜 ChangeLog
