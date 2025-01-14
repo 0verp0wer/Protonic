@@ -1,6 +1,6 @@
 """                                                             
 ___  ____ ____ ___ ____ _  _ _ ____         Welcome to Protonic 1.0, the first obfuscated challenge made by over_on_top on discord aka overpower.
-|__] |__/ |  |  |  |  | |\ | | |            Difficulty: [35/100]
+|__] |__/ |  |  |  |  | |\ | | |            Difficulty: [30/100]
 |    |  \ |__|  |  |__| | \| | |___         
                                            If you are still reading this, it means you want to de-obfuscate this challenge, I wish you have fun and good luck (you will need it)
                                            
